@@ -23,5 +23,5 @@ air_des = os.getenv('AIRLINES_OUT', 'airlines.csv')
 if(not flights_src or not air_src):
     raise Exception('GDrive file id for both airlines and flights data must be provided')
 
-gdown.download(get_gdrive_url(flights_src), flights_des, quiet=True)
-gdown.download(get_gdrive_url(air_src), air_des, quiet=True)
+gdown.download(get_gdrive_url(flights_src), flights_des, quiet=False)
+gdown.download(get_gdrive_url(air_src), air_des, quiet=False)
