@@ -1,5 +1,5 @@
 # download java
-apt install openjdk-8-jdk-headless wget &> /dev/null
+apt install openjdk-8-jdk-headless &> /dev/null
 
 # download and decompress spark
 wget -O /content/spark-3.2.1-bin-hadoop2.7.tgz https://dlcdn.apache.org/spark/spark-3.2.1/spark-3.2.1-bin-hadoop2.7.tgz
