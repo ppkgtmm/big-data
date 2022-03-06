@@ -10,7 +10,3 @@ cp -r hadoop-3.3.0/ /usr/local/
 # set java home as environment variable
 echo "export JAVA_HOME=$(readlink -f /usr/bin/java | sed "s:bin/java::")" >> \
 /usr/local/hadoop-3.3.0/etc/hadoop/hadoop-env.sh
-
-# add hadoop to path
-python3 -c 'import os; \
-os.environ["PATH"] += ":/usr/local/hadoop-3.3.0/bin"'
