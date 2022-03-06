@@ -12,5 +12,5 @@ echo "export JAVA_HOME=$(readlink -f /usr/bin/java | sed "s:bin/java::")" >> \
 /usr/local/hadoop-3.3.0/etc/hadoop/hadoop-env.sh
 
 # add hadoop to path
-python3 -c "import os; \
-os.environ['PATH'] += ':/usr/local/hadoop-3.3.0/bin'"
+python3 -c 'import os; \
+os.environ["PATH"] += ":/usr/local/hadoop-3.3.0/bin"'
