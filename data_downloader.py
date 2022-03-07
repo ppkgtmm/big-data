@@ -1,4 +1,4 @@
-import os
+import os  # for destination path validation
 import argparse  # for parsing commandline arguments
 import gdown  # for downloading file from google drive
 
