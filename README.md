@@ -13,5 +13,5 @@ screenshots embedded in lecture slides. Currently, the exercises related to mach
 - [x] dotenv : load environment variable from file
 - [x] matplotlib : data visualization
 - [x] seaborn : data visualization
-- [x] hadoop : word (unigram, bigram) counting from map reduce
+- [x] hadoop : word (unigram, bigram) counting with map reduce
 - [x] spark : data analysis and machine learning
