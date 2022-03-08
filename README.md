@@ -1,7 +1,7 @@
 # Big data
 
 ## General info
-- Repo to store code from course CPE 325 (Big data) by King Mongkut's University of Technology Thonburi
+- Repo for storing code from course CPE 325 (Big data) by King Mongkut's University of Technology Thonburi
 - Each folder contain my solution to lab. Some folders also have lecture codes that were mostly screenshots
 - Machine learning labs that use scikit-learn are excluded from the repo for now
 
