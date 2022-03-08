@@ -1,9 +1,11 @@
-# 🔖 big data
-This repo aims to store code from revision of big data course CPE 325 by King Mongkut's University of Technology Thonburi (KMUTT). 
-The repo is separated into folders, each with my answers to exercise given for corresponding class and some with lecture codes mostly of which were originally 
-screenshots embedded in lecture slides. Currently, the exercises related to machine learning using scikit-learn are excluded from this repo.
+# Big data
 
-## ⚙️ Tools
+## General info
+- Repo is created to store code from course CPE 325 (Big data) by King Mongkut's University of Technology Thonburi
+- Each folder contain my solution to lab. Some folders also have lecture codes that were mostly screenshots pasted in slides
+- Machine learning labs that use scikit-learn are excluded from the repo for now
+
+## Technologies
 - [x] Anaconda : package manager
 - [x] Jupyter Notebook : environment
 - [x] google colab : environment
