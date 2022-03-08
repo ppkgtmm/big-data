@@ -14,3 +14,24 @@
 - [Lab 3](https://github.com/ppkgtmm/big-data/blob/main/Lecture%203%20-%20Data%20Exploration/Exercise.ipynb) - Explore a real world forest dataset collected by US Forest Service before modeling
 - [Lab 6](https://github.com/ppkgtmm/big-data/blob/main/Lecture%206%20-%20Hadoop%20MapReduce/Exercise.ipynb) - Perform map reduce on Sherlock Holmes book to count unigrams and bigrams after text cleaning
 - [Lab 7](https://github.com/ppkgtmm/big-data/blob/main/Lecture%207%20-%20Spark%20Data%20Operation%20and%20Machine%20Learning/Exercise.ipynb) - Build and evaluate classification model on forest dataset collected by US Forest Service using Spark
+
+## Sample work
+- Airline departure delay  summary
+
+| AIRLINE | AIRLINE NAME           | MEAN DEPARTURE DELAY |
+|:-------:|:----------------------:|:--------------------:|
+| NK      | Spirit Air Lines       | 15.883101            |
+| UA      | United Air Lines Inc.  | 14.333056            |
+| F9      | Frontier Airlines Inc. | 13.303352            |
+| B6      | JetBlue Airways        | 11.442467            |
+| WN      | Southwest Airlines Co. | 10.517183            |
+
+- User profile matrix
+
+| userId | rating count | average rating | movie year median |
+|:------:|:------------:|:--------------:|:-----------------:|
+| 1      | 232          | 4.366379       | 1990.0            |
+| 2      | 29           | 3.948276       | 2010.0            |
+| 3      | 39           | 2.435897       | 1982.0            |
+| 4      | 216          | 3.555556       | 1994.0            |
+| 5      | 44           | 3.636364       | 1994.0            |
