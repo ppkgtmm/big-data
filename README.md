@@ -6,4 +6,4 @@
 - Machine learning labs that use scikit-learn are excluded from the repo for now
 
 ## Technologies
-<img width=700 src="https://user-images.githubusercontent.com/57994731/157172772-c9384868-8818-466c-bb22-533940306b3d.png" alt="tech stack diagram" />
+<img width=700 src="https://user-images.githubusercontent.com/57994731/157178734-f691b356-28fb-4976-b27c-4d572f46546d.png" alt="tech stack diagram" />
