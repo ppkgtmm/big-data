@@ -1,4 +1,4 @@
-# Big data
+# big data
 
 Repo created to store code from course CPE 325 (Big data), King Mongkut's University of Technology Thonburi. Each folder contains `Exercise.ipynb` file which is my solution to the corresponding lab. Labs related to machine learning are excluded from the repo for now
 
