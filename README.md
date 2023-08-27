@@ -1,6 +1,6 @@
 # Big data
 
-Repo created to store code from course CPE 325 (Big data), King Mongkut's University of Technology Thonburi. Each folder contains `Exercise.ipynb` file which is my solution to the corresponding lab. Currently, labs related to machine learning are excluded from the repo
+Repo created to store code from course CPE 325 (Big data), King Mongkut's University of Technology Thonburi. Each folder contains `Exercise.ipynb` file which is my solution to the corresponding lab. Labs related to machine learning are excluded from the repo for now
 
 ## Tools and technologies
 <img width=700 src="https://user-images.githubusercontent.com/57994731/157178734-f691b356-28fb-4976-b27c-4d572f46546d.png" alt="tech stack diagram" />
