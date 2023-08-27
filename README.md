@@ -1,9 +1,6 @@
 # Big data
 
-## General info
-- Repo for storing code from course CPE 325 (Big data) by King Mongkut's University of Technology Thonburi
-- Each folder contain my solution to lab. Some folders also have lecture codes that were mostly screenshots
-- Machine learning labs that use scikit-learn are excluded from the repo for now
+Repo for storing code from course CPE 325 (Big data) by King Mongkut's University of Technology Thonburi where each folder contain my solution to each lab. Some folders also contain lecture codes which are mostly in form of screenshots. Machine learning related labs are excluded from the repo for now
 
 ## Tools and technologies
 <img width=700 src="https://user-images.githubusercontent.com/57994731/157178734-f691b356-28fb-4976-b27c-4d572f46546d.png" alt="tech stack diagram" />
